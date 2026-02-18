@@ -1,0 +1,19 @@
+# ИЗВЕШТАЈ
+
+Ученик: {{firstName}} {{lastName}}
+
+Одделение: {{grade}}
+
+Датум на раѓање: {{birthDate}}
+
+Наод:
+
+{{findings}}
+
+Мислење:
+
+{{opinion}}
+
+Прилози:
+
+{{attachments}}
